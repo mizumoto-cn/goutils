@@ -1,4 +1,4 @@
-package filetools
+package file
 
 import (
 	"errors"
